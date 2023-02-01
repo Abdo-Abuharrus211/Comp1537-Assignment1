@@ -27,14 +27,16 @@ a{
     margin: 4% 0 0 0 ;
 }
 
-.quote-box{
-    padding: 3%;
-    margin-top: 10%;
-}
-
 .img1{
-    width: 100%;
+    width: 80%;
 }
 .img2{
-    width: 100%;
+    width: 80%;
+}
+
+@media (max-width: 800px) {
+
+    .side-navs{
+        display: none;
+    }
 }
