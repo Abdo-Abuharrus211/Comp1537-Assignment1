@@ -1,0 +1,40 @@
+body{
+    background-color: #FFFBF5;
+}
+
+a{
+    margin: 20px;
+}
+
+.banner-cont{
+    margin: 2% auto 4%;
+}
+
+.title{
+    color: #820000;
+    font-weight: 500;
+}
+.side-navs{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding: 1.2%;
+}
+
+.content-cont{
+    font-size: 2rem;;
+    text-align: center;
+    margin: 4% 0 0 0 ;
+}
+
+.quote-box{
+    padding: 3%;
+    margin-top: 10%;
+}
+
+.img1{
+    width: 100%;
+}
+.img2{
+    width: 100%;
+}
