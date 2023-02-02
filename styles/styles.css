@@ -70,4 +70,14 @@ a:hover{
     .side-navs {
         display: none;
     }
+
+    #footer{
+        padding: 20px 0;
+    }
+
+    .wiki-box{
+        margin: 0;
+        padding: 10px 120px;
+        width: 100%;
+    }
 }
