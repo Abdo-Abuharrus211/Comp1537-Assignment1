@@ -60,7 +60,7 @@ a:hover{
     font-weight: 650;
 }
 
-@media (max-width: 800px) {
+@media screen and (max-width: 633px) {
 
     .content-cont {
         font-size: 1rem;
